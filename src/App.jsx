@@ -49,7 +49,7 @@ export default function App() {
     { id: 'x-ai/grok-4', name: 'Grok 4' },
     { id: 'x-ai/grok-4.1-fast', name: 'Grok 4.1 Fast' },
     { id: 'x-ai/grok-code-fast-1', name: 'Grok Code Fast' },
-    { id: 'anthropic/claude-sonnet-4-5', name: 'Claude 4.5 Sonnet' },
+    { id: 'cognitivecomputations/dolphin-mistral-24b-venice-edition:free', name: 'venice' },
     { id: 'meta-llama/llama-4-maverick', name: 'Llama 4 Maverick' }
   ];
 
